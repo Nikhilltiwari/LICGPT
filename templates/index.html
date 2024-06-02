@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIC GPT Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .chat-container {
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            width: 400px;
+            max-width: 100%;
+        }
+        .chat-header, .chat-footer {
+            padding: 20px;
+            background-color: #007bff;
+            color: white;
+        }
+        .chat-body {
+            padding: 20px;
+            height: 400px;
+            overflow-y: auto;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .message.bot {
+            text-align: left;
+        }
+        .message.user {
+            text-align: right;
+        }
+        .message .text {
+            display: inline-block;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        .message.bot .text {
+            background-color: #f1f1f1;
+        }
+        .message.user .text {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h3>LIC GPT Chatbot</h3>
+        </div>
+        <div class="chat-body" id="chat-body">
+        </div>
+        <div class="chat-footer">
+            <input type="text" id="prompt-input" placeholder="Type your message here..." style="width: 80%;">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        function addMessage(text, sender) {
+            const messageContainer = document.createElement('div');
+            messageContainer.classList.add('message', sender);
+
+            const messageText = document.createElement('div');
+            messageText.classList.add('text');
+            messageText.textContent = text;
+
+            messageContainer.appendChild(messageText);
+
+            const chatBody = document.getElementById('chat-body');
+            chatBody.appendChild(messageContainer);
+            chatBody.scrollTop = chatBody.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const promptInput = document.getElementById('prompt-input');
+            const prompt = promptInput.value;
+            if (!prompt) return;
+
+            addMessage(prompt, 'user');
+            promptInput.value = '';
+
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ prompt }),
+            });
+
+            const data = await response.json();
+            if (data.response) {
+                addMessage(data.response, 'bot');
+            } else {
+                addMessage('Sorry, there was an error processing your request.', 'bot');
+            }
+        }
+    </script>
+</body>
+</html>

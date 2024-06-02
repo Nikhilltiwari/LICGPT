@@ -1,0 +1,320 @@
+Policy Name: LIC's Bima Jyoti
+Description: A non-linked, non-participating, individual savings plan which provides a combination of protection and savings. It provides a guaranteed payout in the form of a lump sum at maturity and financial protection against death during the policy term.
+Benefits: ['Guaranteed lump sum payout at maturity', 'Financial protection against death during the policy term', 'Simplified and easy premium payment']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Bima Ratna
+Description: A non-linked, non-participating, individual savings plan which provides a combination of protection and savings. It provides a guaranteed payout in the form of a lump sum at maturity and financial protection against death during the policy term.
+Benefits: ['Guaranteed lump sum payout at maturity', 'Financial protection against death during the policy term', 'Simplified and easy premium payment']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Dhan Sanchay
+Description: A non-linked, non-participating, individual savings plan which provides a combination of protection and savings. It provides a guaranteed payout in the form of a lump sum at maturity and financial protection against death during the policy term.
+Benefits: ['Guaranteed lump sum payout at maturity', 'Financial protection against death during the policy term', 'Simplified and easy premium payment']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Jeevan Azad
+Description: A non-linked, non-participating, individual savings plan which provides a combination of protection and savings. It provides a guaranteed payout in the form of a lump sum at maturity and financial protection against death during the policy term.
+Benefits: ['Guaranteed lump sum payout at maturity', 'Financial protection against death during the policy term', 'Simplified and easy premium payment']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's New Endowment Plan
+Description: A participating non-linked plan which offers an attractive combination of protection and savings. This plan provides financial support for the family in case of death of the policyholder any time before maturity and a lump sum amount at the time of maturity for the surviving policyholders.
+Benefits: ['Financial support in case of death', 'Lump sum amount at the time of maturity', 'Bonus facility']
+Eligibility: {'min_age': 8, 'max_age': 55}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 12, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What are the benefits on maturity?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'What happens if I miss a premium payment?', 'answer': 'A grace period of 30 days is allowed for payment of yearly or half-yearly premiums and 15 days for monthly premiums.'}]
+
+Policy Name: LIC's New Jeevan Anand
+Description: Combination of endowment and whole life policy. Provides financial protection against death throughout the lifetime with the provision of lump sum payment at the end of the selected policy term in case of survival.
+Benefits: ['Financial protection against death throughout the lifetime', 'Lump sum payment at the end of the policy term', 'Bonus facility']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Single Premium Endowment Plan
+Description: A single premium plan that combines savings and protection. Provides financial protection against death during the policy term with a lump sum payment to the policyholder at maturity.
+Benefits: ['Financial protection against death during the policy term', 'Lump sum payment to the policyholder at maturity', 'Single premium payment']
+Eligibility: {'min_age': 90, 'max_age': 65}
+Premium Details: {'min_sum_assured': 50000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Single premium'}
+Policy Term: {'min_term': 5, 'max_term': 20}
+Sum Assured: {'min_sum_assured': 50000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Jeevan Lakshya
+Description: A traditional non-linked with-profits endowment plan. Provides financial support to the family in case of death of the policyholder before maturity and a lump sum at the time of maturity for the surviving policyholders.
+Benefits: ['Financial support to the family in case of death of the policyholder', 'Lump sum at the time of maturity for the surviving policyholders', 'Bonus facility']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 13, 'max_term': 25}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Jeevan Labh
+Description: A limited premium paying, non-linked, with-profits endowment plan which provides a combination of protection and savings. The plan is designed to provide financial support for the family in case of death of the policyholder during the policy term and a lump sum amount at the time of maturity for the surviving policyholders.
+Benefits: ['Financial support in case of death', 'Lump sum amount at the time of maturity', 'Bonus facility']
+Eligibility: {'min_age': 8, 'max_age': 59}
+Premium Details: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Limited premium'}
+Policy Term: {'min_term': 16, 'max_term': 25}
+Sum Assured: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What are the benefits on maturity?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'What happens if I miss a premium payment?', 'answer': 'A grace period of 30 days is allowed for payment of yearly or half-yearly premiums and 15 days for monthly premiums.'}]
+
+Policy Name: LIC's Aadhaar Stambh
+Description: A plan exclusively for men, it provides financial protection and savings. It offers a lump sum at the time of maturity for the surviving policyholders and financial support for the family in case of death of the policyholder before maturity.
+Benefits: ['Financial protection and savings', 'Lump sum at the time of maturity', 'Financial support for the family in case of death of the policyholder before maturity']
+Eligibility: {'min_age': 18, 'max_age': 55}
+Premium Details: {'min_sum_assured': 75000, 'max_sum_assured': 300000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 10, 'max_term': 20}
+Sum Assured: {'min_sum_assured': 75000, 'max_sum_assured': 300000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What are the benefits on maturity?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'What happens if I miss a premium payment?', 'answer': 'A grace period of 30 days is allowed for payment of yearly or half-yearly premiums and 15 days for monthly premiums.'}]
+
+Policy Name: LIC's Aadhaar Shila
+Description: A plan exclusively for women, it provides financial protection and savings. It offers a lump sum at the time of maturity for the surviving policyholders and financial support for the family in case of death of the policyholder before maturity.
+Benefits: ['Financial protection and savings', 'Lump sum at the time of maturity', 'Financial support for the family in case of death of the policyholder before maturity']
+Eligibility: {'min_age': 18, 'max_age': 55}
+Premium Details: {'min_sum_assured': 75000, 'max_sum_assured': 300000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 10, 'max_term': 20}
+Sum Assured: {'min_sum_assured': 75000, 'max_sum_assured': 300000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What are the benefits on maturity?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'What happens if I miss a premium payment?', 'answer': 'A grace period of 30 days is allowed for payment of yearly or half-yearly premiums and 15 days for monthly premiums.'}]
+
+Policy Name: LIC's Jeevan Utsav
+Description: A unique plan that offers a combination of savings and protection. It provides financial support for the family in case of death of the policyholder before maturity and a lump sum at the time of maturity for the surviving policyholders.
+Benefits: ['Combination of savings and protection', 'Financial support for the family in case of death of the policyholder before maturity', 'Lump sum at the time of maturity for the surviving policyholders']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Jeevan Umang
+Description: A non-linked, with-profits whole life assurance plan that provides for annual survival benefits from the end of the premium paying term till maturity and a lump sum payment at the time of maturity or on death of the policyholder during the policy term.
+Benefits: ['Annual survival benefits', 'Lump sum payment at the time of maturity or on death', 'Bonus facility']
+Eligibility: {'min_age': 90, 'max_age': 55}
+Premium Details: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit', 'premium_payment_term': '15, 20, 25, or 30 years'}
+Policy Term: {'min_term': 'Whole life'}
+Sum Assured: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What are the benefits on maturity?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'What happens if I miss a premium payment?', 'answer': 'A grace period of 30 days is allowed for payment of yearly or half-yearly premiums and 15 days for monthly premiums.'}]
+
+Policy Name: LIC's Dhan Rekha
+Description: A non-linked, non-participating, individual savings plan which provides a combination of protection and savings. It provides a guaranteed payout in the form of a lump sum at maturity and financial protection against death during the policy term.
+Benefits: ['Guaranteed lump sum payout at maturity', 'Financial protection against death during the policy term', 'Simplified and easy premium payment']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 15, 'max_term': 35}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's New Bima Bachat
+Description: A single premium plan that combines savings and protection. Provides financial protection against death during the policy term with a lump sum payment to the policyholder at maturity.
+Benefits: ['Financial protection against death during the policy term', 'Lump sum payment to the policyholder at maturity', 'Single premium payment']
+Eligibility: {'min_age': 90, 'max_age': 65}
+Premium Details: {'min_sum_assured': 50000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Single premium'}
+Policy Term: {'min_term': 5, 'max_term': 20}
+Sum Assured: {'min_sum_assured': 50000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's NEW MONEY BACK PLAN - 20 YEARS
+Description: A non-linked, participating, limited premium payment plan which offers the benefits of liquidity through periodic payments and a lump sum at maturity.
+Benefits: ['Periodic payments during the policy term', 'Lump sum at maturity', 'Bonus facility']
+Eligibility: {'min_age': 13, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': '15 years'}
+Policy Term: {'min_term': 20, 'max_term': 20}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the survival benefit?', 'answer': '20% of the Basic Sum Assured at the end of each of the 5th, 10th, and 15th policy years.'}, {'question': 'What is the maturity benefit?', 'answer': '40% of the Basic Sum Assured along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}]
+
+Policy Name: LIC's NEW MONEY BACK PLAN - 25 YEARS
+Description: A non-linked, participating, limited premium payment plan which offers the benefits of liquidity through periodic payments and a lump sum at maturity.
+Benefits: ['Periodic payments during the policy term', 'Lump sum at maturity', 'Bonus facility']
+Eligibility: {'min_age': 13, 'max_age': 45}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': '20 years'}
+Policy Term: {'min_term': 25, 'max_term': 25}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the survival benefit?', 'answer': '15% of the Basic Sum Assured at the end of each of the 5th, 10th, 15th, and 20th policy years.'}, {'question': 'What is the maturity benefit?', 'answer': '40% of the Basic Sum Assured along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}]
+
+Policy Name: LIC's New Children's Money Back Plan
+Description: A non-linked, participating, individual life assurance savings plan which provides the benefits of periodic payments on surviving specific policy durations and a lump sum at maturity.
+Benefits: ['Periodic payments on surviving specific policy durations', 'Lump sum at maturity', 'Bonus facility']
+Eligibility: {'min_age': 0, 'max_age': 12}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term minus 5 years'}
+Policy Term: {'min_term': 25, 'max_term': 25}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the survival benefit?', 'answer': '20% of the Basic Sum Assured at the end of each of the 18th, 20th, and 22nd policy years.'}, {'question': 'What is the maturity benefit?', 'answer': '40% of the Basic Sum Assured along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}]
+
+Policy Name: LIC's Jeevan Tarun
+Description: A participating, non-linked, limited premium payment plan which provides the benefits of periodic payments on surviving specific policy durations and a lump sum at maturity.
+Benefits: ['Periodic payments on surviving specific policy durations', 'Lump sum at maturity', 'Bonus facility']
+Eligibility: {'min_age': 90, 'max_age': 12}
+Premium Details: {'min_sum_assured': 75000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term minus 5 years'}
+Policy Term: {'min_term': 25, 'max_term': 25}
+Sum Assured: {'min_sum_assured': 75000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the survival benefit?', 'answer': '25% of the Sum Assured at the end of each of the 20th, 22nd, 24th, and 25th policy years.'}, {'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}]
+
+Policy Name: LIC's Jeevan Shiromani
+Description: A non-linked, participating, individual life assurance savings plan which provides the benefits of periodic payments and a lump sum at maturity.
+Benefits: ['Periodic payments during the policy term', 'Lump sum at maturity', 'Bonus facility']
+Eligibility: {'min_age': 18, 'max_age': 55}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term minus 5 years'}
+Policy Term: {'min_term': 14, 'max_term': 20}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the survival benefit?', 'answer': 'Guaranteed Additions at the end of each policy year, starting from the 5th year onwards.'}, {'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}]
+
+Policy Name: LIC's Bima Shree
+Description: A non-linked, with-profits, limited premium payment money back life insurance plan which provides financial protection against death throughout the policy term with the provision of lump sum payment at the end of selected policy term in case of survival.
+Benefits: ['Financial protection against death throughout the policy term', 'Lump sum payment at the end of selected policy term in case of survival', 'Bonus facility']
+Eligibility: {'min_age': 8, 'max_age': 55}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': '10, 12, 16 or 20 years'}
+Policy Term: {'min_term': 12, 'max_term': 25}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's New Tech Term
+Description: A non-linked, non-participating, individual pure risk premium life insurance plan which provides financial protection against death during the policy term.
+Benefits: ['Financial protection against death during the policy term', 'Lower premium rates for non-smokers', 'Special premium rates for women']
+Eligibility: {'min_age': 18, 'max_age': 65}
+Premium Details: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 10, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the death benefit?', 'answer': 'Sum Assured on Death is paid to the nominee.'}, {'question': 'Is there a surrender value?', 'answer': 'No, there is no surrender value for this policy.'}]
+
+Policy Name: LIC's New Jeevan Amar
+Description: A non-linked, non-participating, individual pure risk premium life insurance plan which provides financial protection against death during the policy term.
+Benefits: ['Financial protection against death during the policy term', 'Lower premium rates for non-smokers', 'Special premium rates for women']
+Eligibility: {'min_age': 18, 'max_age': 65}
+Premium Details: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 10, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 200000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the death benefit?', 'answer': 'Sum Assured on Death is paid to the nominee.'}, {'question': 'Is there a surrender value?', 'answer': 'No, there is no surrender value for this policy.'}]
+
+Policy Name: LIC's Saral Jeevan Bima
+Description: A standard, non-linked, non-participating, individual pure risk premium life insurance plan which provides financial protection against death during the policy term.
+Benefits: ['Financial protection against death during the policy term', 'Simple and affordable plan', 'Special premium rates for women']
+Eligibility: {'min_age': 18, 'max_age': 65}
+Premium Details: {'min_sum_assured': 500000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 500000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the death benefit?', 'answer': 'Sum Assured on Death is paid to the nominee.'}, {'question': 'Is there a surrender value?', 'answer': 'No, there is no surrender value for this policy.'}]
+
+Policy Name: LIC's Jeevan Kiran
+Description: A non-linked, non-participating, individual savings plan which provides financial protection against death during the policy term and a guaranteed lump sum at maturity.
+Benefits: ['Financial protection against death during the policy term', 'Guaranteed lump sum at maturity', 'Simplified and easy premium payment']
+Eligibility: {'min_age': 18, 'max_age': 50}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit', 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 10, 'max_term': 30}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 'No Limit'}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the maturity benefit?', 'answer': 'Sum Assured on Maturity along with vested Simple Reversionary Bonuses and Final Additional Bonus, if any.'}, {'question': 'Is loan facility available?', 'answer': 'Yes, loan facility is available under this policy.'}]
+
+Policy Name: LIC's Linked Accidental Death Benefit Rider
+Description: An add-on benefit providing financial protection against accidental death.
+Benefits: ['Financial protection against accidental death', 'Additional sum assured in case of accidental death']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the accidental death benefit?', 'answer': 'An additional sum assured is paid in case of accidental death.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+
+Policy Name: LIC's Accidental Death and Disability Benefit Rider
+Description: An add-on benefit providing financial protection against accidental death and disability.
+Benefits: ['Financial protection against accidental death and disability', 'Additional sum assured in case of accidental death or disability']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the accidental death and disability benefit?', 'answer': 'An additional sum assured is paid in case of accidental death or disability.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+
+Policy Name: LIC's Accident Benefit Rider
+Description: An add-on benefit providing financial protection against accidental death.
+Benefits: ['Financial protection against accidental death', 'Additional sum assured in case of accidental death']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the accidental death benefit?', 'answer': 'An additional sum assured is paid in case of accidental death.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+
+Policy Name: LIC's Premium Waiver Benefit Rider
+Description: An add-on benefit providing waiver of future premiums in case of total and permanent disability.
+Benefits: ['Waiver of future premiums in case of total and permanent disability', 'Ensures continuity of the policy despite premium non-payment']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the premium waiver benefit?', 'answer': 'Future premiums are waived in case of total and permanent disability.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+
+Policy Name: LIC's New Critical Illness Benefit Rider
+Description: An add-on benefit providing financial protection against specified critical illnesses.
+Benefits: ['Financial protection against specified critical illnesses', 'Lump sum payment on diagnosis of specified critical illnesses']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the critical illness benefit?', 'answer': 'A lump sum payment is made on diagnosis of specified critical illnesses.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+
+Policy Name: LIC's NEW TERM ASSURANCE RIDER
+Description: An add-on benefit providing additional financial protection in the form of life cover.
+Benefits: ['Additional life cover', 'Affordable premium rates']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the term assurance benefit?', 'answer': 'An additional sum assured is paid in case of death.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+
+Policy Name: LIC's Premium Waiver Benefit Rider (With Auto Cover)
+Description: An add-on benefit providing waiver of future premiums in case of total and permanent disability, with automatic coverage continuation.
+Benefits: ['Waiver of future premiums in case of total and permanent disability', 'Automatic coverage continuation']
+Eligibility: {'min_age': 18, 'max_age': 60}
+Premium Details: {'min_sum_assured': 100000, 'max_sum_assured': 1000000, 'premium_payment_term': 'Equal to policy term'}
+Policy Term: {'min_term': 5, 'max_term': 40}
+Sum Assured: {'min_sum_assured': 100000, 'max_sum_assured': 1000000}
+Claim Process: Submit claim form, policy document, and other required documents to the nearest LIC branch.
+FAQs: [{'question': 'What is the premium waiver benefit?', 'answer': 'Future premiums are waived in case of total and permanent disability.'}, {'question': 'Is the benefit available throughout the policy term?', 'answer': 'Yes, the benefit is available throughout the policy term.'}]
+

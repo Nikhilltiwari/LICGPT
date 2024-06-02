@@ -1,0 +1,26 @@
+##Data Collection
+The data for the LIC policies was gathered based on common policy attributes and typical information available from LIC and similar insurance providers. The information included:
+
+Policy Name: The name of the LIC policy.
+Description: A brief description of the policy.
+Benefits: The main benefits provided by the policy.
+Eligibility Criteria: The age range and other criteria for eligibility.
+Premium Details: Details about the minimum and maximum sum assured and the premium payment terms.
+Policy Term: The duration of the policy.
+Sum Assured: The minimum and maximum sum assured.
+Claim Process: The steps to be followed to claim the policy.
+FAQs: Commonly asked questions and their answers regarding the policy.
+
+
+## Data Structuring
+JSON Structure:
+I created a structured JSON format for each policy set, defining the above attributes.
+
+Conversion to DataFrame:
+Using Python's pandas library, I converted each JSON structure to a DataFrame.
+
+Saving as CSV:
+I saved each DataFrame as a CSV file.
+
+Combining CSV Files:
+Finally, I combined all the individual CSV files into a single CSV file for ease of use.
